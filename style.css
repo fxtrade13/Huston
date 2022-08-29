@@ -1,0 +1,31 @@
+.block {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1.5em;
+    font-size: 32px;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1.5em;
+}
+th {
+    border: 1px solid black;
+ }
+ td {
+    border: 1px solid black;
+ }
+ h3 {
+      font-style: italic;
+}
+img {
+     float: left; 
+}
+.body-img {
+    margin-top: 20px;
+}
+
+ 
